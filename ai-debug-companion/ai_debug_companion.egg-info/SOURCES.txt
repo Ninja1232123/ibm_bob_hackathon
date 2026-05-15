@@ -1,0 +1,10 @@
+README.md
+setup.py
+ai_debug_companion.egg-info/PKG-INFO
+ai_debug_companion.egg-info/SOURCES.txt
+ai_debug_companion.egg-info/dependency_links.txt
+ai_debug_companion.egg-info/entry_points.txt
+ai_debug_companion.egg-info/requires.txt
+ai_debug_companion.egg-info/top_level.txt
+tests/test_parsers.py
+tests/test_suggestions.py
